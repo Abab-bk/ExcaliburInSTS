@@ -2,7 +2,8 @@
   "modid": "${ModID}",
   "name": "${project.name}",
   "author_list": [
-    "Anonymous, as of yet!"
+    "Flower",
+    "DarkVexon!"
   ],
   "description": "${project.description}",
   "version": "${project.version}",

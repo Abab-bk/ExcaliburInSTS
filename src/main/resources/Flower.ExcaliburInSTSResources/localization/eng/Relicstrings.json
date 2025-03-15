@@ -1,0 +1,9 @@
+{
+  "${ModID}:SwordsmanshipRelic": {
+    "NAME": "Swordsmanship",
+    "FLAVOR": "Excalibur has improved mastery in the art of swordplay.",
+    "DESCRIPTIONS": [
+      "Has no effect."
+    ]
+  }
+}
